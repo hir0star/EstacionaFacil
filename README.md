@@ -20,4 +20,5 @@ Organização do repositório:
 -testes: planejamento dos testes de software.
 
 Integrantes: Henrique Martins Borges
+
 Status do projeto: Desenvolvimento inicial concluído. Testes de funcionamento, integração e desempenho pendentes.
